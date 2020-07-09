@@ -1,0 +1,5 @@
+rootProject.name='Day_02_Git'
+include ':app'
+include ':exam_two'
+include ':exam_three'
+include ':exam_five'
